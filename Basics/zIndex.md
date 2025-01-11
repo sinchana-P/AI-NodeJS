@@ -1,0 +1,3 @@
+- Create an Open AI Key
+- Initialize a npm project
+- run 1st program
